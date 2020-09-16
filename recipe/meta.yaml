@@ -1,5 +1,5 @@
 {% set name = "conda-suggest-conda-forge" %}
-{% set version = "2020.9.8" %}
+{% set version = "2020.9.16" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/regro/{{ name }}/releases/download/{{ version }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 4a625551386e735377003e2aefc2f930e088fc88503fd5b7645b4b1c28d53797
+  sha256: 5037c0f33012735b7fd3f498b57638825273ff9bf73440c1657a6ce755288b1d
 
 build:
   number: 0
