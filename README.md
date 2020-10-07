@@ -5,11 +5,9 @@ Home: https://github.com/regro/conda-suggest-conda-forge
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/conda-suggest-conda-forge-feedstock/blob/master/LICENSE.txt)
 
 Summary: Conda-suggest map files for conda-forge.
-
-
 
 Current build status
 ====================
